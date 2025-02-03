@@ -1,0 +1,11 @@
+Flask
+flask-restful
+markdown
+mysql-connector-python
+requests
+jsonpickle
+timedelta
+pycountry
+bcrypt
+stripe
+sentry-sdk[flask]
